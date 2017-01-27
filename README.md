@@ -1,11 +1,11 @@
-# core_mission
 #Research Bazaar Arizona Mission Statement
 The Research Bazaar is a worldwide festival promoting the digital literacy emerging at the center of modern research. The local chapter that has been established by University of Arizona students, researchers, and staff is known as Research Bazaar Arizona, shortened to ResBazAZ or ResB[AZ]2 as featured on our logo.
 
 This mission manifests as three core focus areas: 
-1)	Campaign
-2)	Community
-3)	Conference
+
+1. Campaign
+2. Community
+3. Conference
 
 ##Campaign 
 ResBaz Arizona teaches research tools through peer-to-peer interactions driven by a community of researchers. Students and researchers are uniquely aware of what it takes to survive in the research world, and it is this shared experience that allows peers to understand, train, and support each other. Additionally, there is an overwhelming need to train researchers in new and emerging interdisciplinary domains such as bioinformatics and data science. Traditional departmental classes and organizations are by nature slow to generate course materials and degree programs to meet this need. ResBaz Arizona activities dovetail perfectly with other international computational teaching organizations like Data & Software Carpentry to produce synergistic communities that cut across traditional departmental divisions. ResBaz Arizona is community-organized and thus scales to the demand for training. . But ResBaz Arizona cannot do anything alone! This leads to the second area of focus.
